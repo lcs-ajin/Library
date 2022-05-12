@@ -1,0 +1,20 @@
+[
+    {
+        "author": "JK Rowling",
+        "title": "Harry Potter",
+        "locationInLibrary": "Second shelf, Second column ",
+        "id": 2
+    },
+    {
+        "author": "Piers Anthony",
+        "title": "On a pale horse",
+        "locationInLibrary": "Second shelf,Second column",
+        "id": 3
+    },
+    {
+        "author": "Khaled Hosseini",
+        "title": "The Kite Runner",
+        "locationInLibrary": "First shelf, thrid coloumn",
+        "id": 4
+    }
+]

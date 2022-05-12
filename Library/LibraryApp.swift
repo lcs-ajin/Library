@@ -9,9 +9,12 @@ import SwiftUI
 
 @main
 struct LibraryApp: App {
+    
+    @State var books: [Book] = []
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            BookListView(books: $books)
         }
     }
 }
